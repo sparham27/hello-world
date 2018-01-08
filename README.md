@@ -1,2 +1,2 @@
 # hello-world
-first repository
+first repository. Used to learn Git junk.
